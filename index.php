@@ -1,8 +1,4 @@
 <?php
-
-$servername = 'localhost';
-$username = '';
-$password = '';
-$dbname = '';
+    require 'connPDO.php';
 
 ?>
