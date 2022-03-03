@@ -24,7 +24,9 @@ let data = {
         "Blue"
     ]
 };
+
 let ctx = $("#myChart");
+
 new Chart(ctx, {
     data: data,
     type: 'polarArea'
